@@ -1,2 +1,2 @@
-# Class-22
-Implement matter.js
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
